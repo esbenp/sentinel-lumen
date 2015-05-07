@@ -1,0 +1,18 @@
+{
+    "name": "optimus/sentinel-lumen",
+    "description": "A Lumen bridge for cartalyst/sentinel",
+    "require": {
+        "cartalyst/sentinel": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "Esben Petersen",
+            "email": "ep@traede.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Optimus\\Sentinel\\": "src"
+        }
+    }
+}
