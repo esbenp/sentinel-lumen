@@ -21,7 +21,7 @@ Copy ```vendor/cartalyst/sentinel/config/config.php``` to your own config folder
 
 ### Migrate
 
-Run ```php artisan migrate --path=vendor/cartalyst/sentinel/migrations```
+Run ```php artisan migrate --path=vendor/cartalyst/sentinel/src/migrations```
 
 ## Usage
 
