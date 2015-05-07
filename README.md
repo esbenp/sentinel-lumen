@@ -3,6 +3,10 @@ A Lumen bridge for cartalyst/sentinel.
 
 ## Installation
 
+### Via composer
+
+Run ```composer require optimus/sentinel-lumen 0.1.*```
+
 ### Register package
 
 In your ```bootstrap/app.php``` register service providers
